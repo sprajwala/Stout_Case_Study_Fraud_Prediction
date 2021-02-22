@@ -12,18 +12,18 @@ https://www.kaggle.com/ntnu-testimon/paysim1
 
 -> Performed prediction on pre-processed dataset using Logistic Regression and Random Forest algorithms. Visualized the results before and after data cleaning for both models.
 
-Results:
+Results:<br>
+<br>
+Evaluation Metrics for Logistic Regression <br>
+Accuracy	0.9034356576539947 <br>
+Precision	0.8523560209424084 <br>
+Recall	0.9791499599037691 <br>
 
-Evaluation Metrics for Logistic Regression
-Accuracy	0.9034356576539947
-Precision	0.8523560209424084
-Recall	0.9791499599037691
-
-Classification Report for Random Forest
-Precision	Recall	F1-score	Support
-0	1.00	   0.99	    0.99	   2425
-1	0.99	   1.00	    0.99	   2494
-
-Accuracy			            0.99	4919
-Macro Avg	    0.99	0.99	0.99  4919
-Weighted Avg	0.99	0.99	0.99	4919
+Classification Report for Random Forest <br>
+Precision	Recall	F1-score	Support <br>
+0	1.00	   0.99	    0.99	   2425 <br>
+1	0.99	   1.00	    0.99	   2494 <br>
+<br>
+Accuracy			            0.99	4919 <br>
+Macro Avg	    0.99	0.99	0.99  4919 <br>
+Weighted Avg	0.99	0.99	0.99	4919 
